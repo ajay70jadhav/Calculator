@@ -12,10 +12,6 @@ A simple calculator built using **HTML**, **CSS**, and **JavaScript**. This proj
 - **Responsive Design**: Adjusts seamlessly across various screen sizes.
 - **Interactive Buttons**: Buttons have hover effects for better user experience.
 
-## Preview
-
-![Calculator Preview](preview_image_link)
-
 ## Technology Stack
 
 - **HTML**: Structure of the calculator.
